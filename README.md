@@ -8,6 +8,7 @@
 
 ## 📌 Business Problem
 How does a customer who starts buying R20 soap at a Spaza shop become a L'Oreal R350 serum customer? This project tracks that migration to help L'Oreal South Africa understand emerging luxury consumers.
+**My Contribution:** I analyzed how customers migrate from informal Spaza shops to luxury beauty, showing how a R150 monthly spend grows to R850 as brand trust increases - helping L'Oreal capture emerging South African consumers.
 
 ## 📊 Key Insights
 
